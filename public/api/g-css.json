@@ -1,0 +1,58 @@
+[
+  {
+    "SN": "1",
+    "Guidelines": "1. Use soft tabs with two spaces—they're the only way to guarantee code renders the same in any environment."
+  },
+  {
+    "SN": "2",
+    "Guidelines": "2. When grouping selectors, keep individual selectors to a single line."
+  },
+  {
+    "SN": "3",
+    "Guidelines": "3. Include one space before the opening brace of declaration blocks for legibility."
+  },
+  {
+    "SN": "4",
+    "Guidelines": "4. Place closing braces of declaration blocks on a new line."
+  },
+  {
+    "SN": "5",
+    "Guidelines": "5. Include one space after : for each declaration."
+  },
+  {
+    "SN": "6",
+    "Guidelines": "6. Each declaration should appear on its own line for more accurate error reporting."
+  },
+  {
+    "SN": "7",
+    "Guidelines": "7. End all declarations with a semi-colon. The last declaration's is optional, but your code is more error prone without it."
+  },
+  {
+    "SN": "8",
+    "Guidelines": "8. Comma-separated property values should include a space after each comma (e.g., box-shadow)."
+  },
+  {
+    "SN": "9",
+    "Guidelines": "9. Don't include spaces after commaswithin rgb(), rgba(), hsl(),hsla(), or rect() values. This helps differentiate multiple color values (comma, no space) from multiple property values (comma with space)."
+  },
+  {
+    "SN": "10",
+    "Guidelines": "10. Don't prefix property values or color parameters with a leading zero (e.g.,.5 instead of 0.5 and -.5px instead of -0.5px)."
+  },
+  {
+    "SN": "11",
+    "Guidelines": "11. Lowercase all hex values, e.g., #fff. Lowercase letters are much easier to discern when scanning a document as they tend to have more unique shapes."
+  },
+  {
+    "SN": "12",
+    "Guidelines": "12. Use shorthand hex values where available, e.g., #fff instead of#ffffff."
+  },
+  {
+    "SN": "13",
+    "Guidelines": "13. Quote attribute values in selectors, e.g.,input[type=\"text\"]. and it’s a good practice for consistency."
+  },
+  {
+    "SN": "14",
+    "Guidelines": "14. Avoid specifying units for zero values, e.g., margin: 0; instead of margin: 0px;."
+  }
+]

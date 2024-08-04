@@ -1,0 +1,31 @@
+.tabular-data-wrap {
+  word-break: break-word;
+}
+.action-item {
+  display: inline-block;
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: center;
+}
+.action-item span {
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 10px;
+  font-size: 12px;
+}
+.form-preview-wrap {
+  margin-bottom: 15px;
+}
+.react-bootstrap-table-pagination {
+  margin-bottom: 15px;
+}
+.react-bootstrap-table .ui.button {
+  background: none;
+  font-weight: 400;
+  padding: 2px 8px;
+  margin-right: 10px;
+}
+.react-bootstrap-table .ui.button svg {
+  margin-right: 2px;
+}
+

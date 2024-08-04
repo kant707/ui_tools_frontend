@@ -1,0 +1,42 @@
+[
+  {
+    "SN": "1",
+    "Guidelines": " <p>1. A+ Content container box max width should be 770px.<p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/G-aplus-1.jpg\" alt=\"uitool\"/><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/G-aplus-2.jpg\" alt=\"uitool\"/>"
+  },
+  {
+    "SN": "2",
+    "Guidelines": "<p>2. Do not include external fonts. Nykaa uses its default font which is <strong>Source Sans Pro</strong>.</p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/G-aplus-3.jpg\" alt=\"uitool\"/>"
+  },
+  {
+    "SN": "3",
+    "Guidelines": "<p>3. Do not include external CSS and plugins like Bootstrap, Material UI or any other.</p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/G-aplus-4.jpg\" alt=\"uitool\"/>"
+  },
+  {
+    "SN": "4",
+    "Guidelines": "<p>4. Do not Include any Doctype, html, head, body, viewport, meta and script tags.</p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/G-aplus-5.jpg\" alt=\"uitool\"/>"
+  },
+  {
+    "SN": "5",
+    "Guidelines": "<p>5. Do not Include any html, body and universal(*) css selector in style.</p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/G-aplus-6.jpg\" alt=\"uitool\"/>"
+  },
+  {
+    "SN": "6",
+    "Guidelines": "<p>6. The class and id name should start with aplus. <br>  <strong>Example: .aplus-container, #aplus-row etc.</strong></p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/G-aplus-7.jpg\" alt=\"uitool\"/>"
+  },
+  {
+    "SN": "7",
+    "Guidelines": "<p>7. html elements(like h1, p, span etc.) should use with parent elements in style <br>  <strong>Example: .aplus-box p, #aplus-inner span</strong></p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/G-aplus-8.jpg\" alt=\"uitool\"/>"
+  },
+  {
+    "SN": "8",
+    "Guidelines": "<p>8. File size should be less than 1.5 MB(including images).</p>"
+  },
+  {
+    "SN": "9",
+    "Guidelines": "<p>9. Individual image size should be less than 300KB.</p>"
+  },
+  {
+    "SN": "10",
+    "Guidelines": "<p>10. Aplus Content should be responsive.</p>"
+  }
+]

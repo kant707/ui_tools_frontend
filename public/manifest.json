@@ -1,0 +1,20 @@
+{
+  "name": "Nykaa User Interface Tools",
+  "short_name": "UI Tools",
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#ffffff", 
+  "background_color": "#ebebeb",    
+  "icons": [
+      {
+          "src": "https://adn-static1.nykaa.com/tr:w-192/media/wysiwyg/2019/app-icon-iTunesArtwork.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "https://adn-static1.nykaa.com/tr:w-512/media/wysiwyg/2019/app-icon-iTunesArtwork.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+  ]
+}

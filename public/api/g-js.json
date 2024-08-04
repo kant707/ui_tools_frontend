@@ -1,0 +1,58 @@
+[
+  {
+    "SN": "1",
+    "Guidelines": "1. Choose easy to understand and short names for variables and functions. Example Bad: isOverEighteen(), good: isLegalAge()."
+  },
+  {
+    "SN": "2",
+    "Guidelines": "2. Variable and function names should be full words, using camel case with a lowercase first letter."
+  },
+  {
+    "SN": "3",
+    "Guidelines": "3. Avoid Global Variables"
+  },
+  {
+    "SN": "4",
+    "Guidelines": "4. Always Declare Local Variables"
+  },
+  {
+    "SN": "5",
+    "Guidelines": "5. Put all declarations at the top of each script or function."
+  },
+  {
+    "SN": "6",
+    "Guidelines": "6. Initialize variables when you declare them"
+  },
+  {
+    "SN": "7",
+    "Guidelines": "7. Use === Comparison"
+  },
+  {
+    "SN": "8",
+    "Guidelines": "8. Use Parameter Defaults"
+  },
+  {
+    "SN": "9",
+    "Guidelines": "9. End Your Switches with Defaults"
+  },
+  {
+    "SN": "10",
+    "Guidelines": "10. Stick to a Strict Coding Style"
+  },
+  {
+    "SN": "11",
+    "Guidelines": "11. Comment as Much as Needed but Not More"
+  },
+  {
+    "SN": "12",
+    "Guidelines": "12. Use Shortcut Notations Example Bad: var student_name; var student_age; good: var student_name, student_age;"
+  },
+  {
+    "SN": "13",
+    "Guidelines": "13. Keep your code modularized and specialized."
+  },
+  {
+    "SN": "14",
+    "Guidelines": "14. Avoid creating a lot of JavaScript dependent code."
+  }
+]

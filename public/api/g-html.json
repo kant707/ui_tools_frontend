@@ -1,0 +1,58 @@
+[
+  {
+    "SN": "1",
+    "Guidelines": "1. Write Consistently Formatted Code"
+  },
+  {
+    "SN": "2",
+    "Guidelines": "2. Use Lower Case Markup"
+  },
+  {
+    "SN": "3",
+    "Guidelines": "3. Close all html tags properly"
+  },
+  {
+    "SN": "4",
+    "Guidelines": "4. Use the Right HTML Element at the Right Place"
+  },
+  {
+    "SN": "5",
+    "Guidelines": "5. Don’t use inline styles in your HTML."
+  },
+  {
+    "SN": "6",
+    "Guidelines": "6. Always Declare a Doctype"
+  },
+  {
+    "SN": "7",
+    "Guidelines": "7. Use Meaningful Title, Keyword and Description Tags"
+  },
+  {
+    "SN": "8",
+    "Guidelines": "8. Use Character encoding"
+  },
+  {
+    "SN": "9",
+    "Guidelines": "9. Use Classes before ID in html tag"
+  },
+  {
+    "SN": "10",
+    "Guidelines": "10. Use Heading Elements Wisely"
+  },
+  {
+    "SN": "11",
+    "Guidelines": "11. Use Alt Attributes with Images"
+  },
+  {
+    "SN": "12",
+    "Guidelines": "12. Use Title Attributes with Links when needed"
+  },
+  {
+    "SN": "13",
+    "Guidelines": "13. Validate Your Code"
+  },
+  {
+    "SN": "14",
+    "Guidelines": "14. Avoid Excessive Comments"
+  }
+]

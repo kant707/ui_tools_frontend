@@ -1,0 +1,34 @@
+[
+  {
+    "SN": "1",
+    "Guidelines": "<p><strong>Q.1 What is A+ Content?</strong></p><p>Ans: A+ Content is a detailed description of the product's features by using rich images, youtube videos and information about the brand.</p>"
+  },
+  {
+    "SN": "2",
+    "Guidelines": "<p><strong>Q.2 Who creates the A+ Content?</strong></p><p>Ans: The brand can either hire an agency or create the content inhouse through their web developers and designers. Nykaa does not creates A+ content for any brands.</p>"
+  },
+  {
+    "SN": "3",
+    "Guidelines": "<p><strong>Q.3 How is the A+ content created?</strong></p><p>Ans: The A+ content needs to be designed by a Web designer using a tool like photoshop. Once the design is confirmed the A+ content needs to be coded by a Web Developer using html, css and media queries only.</p>"
+  },
+  {
+    "SN": "4",
+    "Guidelines": "<p><strong>Q.4 What is the canvas size to design A+ content?</strong></p><p>Ans: The Web Designer needs to incorporate the A+ content in the canvas width size of 770px.</p>"
+  },
+  {
+    "SN": "5",
+    "Guidelines": "<p><strong>Q.5 What is the image size for A+ content?</strong></p><p>Ans: Each image size has to be less than 300KB.</p>"
+  },
+  {
+    "SN": "6",
+    "Guidelines": "<p><strong>Q.6 Does Nykaa have any sample design or html for A+ content?</strong></p><p>Ans: Yes. The same can be downloaded from the link below. <br/><a href='./download/A+Content-SamplePSD.zip' download>A+Content Sample PSD</a><br/><a href='./download/A+Content-SampleHtml.zip' download>A+Content Sample Html</a></p>"
+  },
+  {
+    "SN": "7",
+    "Guidelines": "<p><strong>Q.7 Are there any guidelines to be followed for creating A+ content?</strong></p><p>Ans: Yes, Refer the below link for the same. </br> <i>Note: These are technical guidelines for the Web Designer and Web Developer.</i></p>"
+  },
+  {
+    "SN": "8",
+    "Guidelines": "<p><strong>Q.8 What is the process to upload A+ content on Nykaa Website?</strong></p><ol><li>Once the A+ content is created as per the guidelines, the brand needs to share the content with the brand manager for validation.</li><li>The Brand Manager needs to validate the A+ content using the UI Validation tool.https://uitools.nykaa.com/. In case the user doesn’t have access to the same, kindly mail to ui@nykaa.com to receive access for validation.</li><li>The Brand Manager needs to validate two things using the UI Validation Tool a) Code Review b) Responsive html.</li><li>Validated A+ content needs to be sent to the UI Team for final approval.</li><li>The approved A+ content will be sent by the UI Team to the cataloging team for upload on the relevant product description page.</li><li>Once uploaded the Cataloging team will confirm the same on mail.</li></ol>"
+  }
+]

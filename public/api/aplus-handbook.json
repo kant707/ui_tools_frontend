@@ -1,0 +1,62 @@
+[
+  {
+    "SN": "1",
+    "Guidelines": "<h4>Overview of A+ Content Tool</h4><p>The objective of the tool is to provide you a platform where you can validate the HTML files and images received from the brand to see whether they adhere to our validation guidelines or not. Earlier UI team used to do this validation manually but now it has been automated with the help of this tool.</p><p>The validated content with no errors can be downloaded in a minified version and Catalog team can use the same for the further steps.</p>"
+  },
+  {
+    "SN": "2",
+    "Guidelines": "<h4>How do I validate individual HTML file and their collection of the images?</h4>"
+  },
+  {
+    "SN": "3",
+    "Guidelines": "<p><strong>Step 1:</strong> Open this link in your browser: https://uitools.nykaa.com/ and login using your Gmail account</p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-1.jpg\" alt=\"ui tool\" />"
+  },
+  {
+    "SN": "4",
+    "Guidelines": "<p><strong>Step 2:</strong> Post successful login you will land to the \"A+ Content Validator\" screen.</p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-2.jpg\" alt=\"ui tool\" />"
+  },
+  {
+    "SN": "5",
+    "Guidelines": "<p><strong>Step 3:</strong> Upload the HTML file or drag and drop the one which you want to validate. Post this click on ‘Validate’ button.</p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-2a.jpg\" alt=\"ui tool\" />"
+  },
+  {
+    "SN": "6",
+    "Guidelines": "<p><strong>Step 4:</strong> In case there are errors in the uploaded HTML file or it doesn’t meet the guidelines defined for it, then the list of error messages will show up.</p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-3.jpg\" alt=\"ui tool\" />"
+  },
+  {
+    "SN": "7",
+    "Guidelines": "<p><strong>Step 5:</strong> If the uploaded HTML file adheres to the validations defined then a success message will appear and you can download the minified version.</p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-4.jpg\" alt=\"ui tool\" />"
+  },
+  {
+    "SN": "8",
+    "Guidelines": "<p><strong>Step 6:</strong> Once the HTML file validation is done, the next step is to validate the images. You can upload all the images in one go by directly selecting the folder. </p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-5.jpg\" alt=\"ui tool\" /><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-6.jpg\" alt=\"ui tool\" />"
+  },
+  {
+    "SN": "9",
+    "Guidelines": "<p><strong>Step 7:</strong> If there are any issues with the uploaded images then respective error messages will show up along with the file name.</p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-7.jpg\" alt=\"ui tool\" />"
+  },
+  {
+    "SN": "10",
+    "Guidelines": "<p><strong>Step 8:</strong> If there are no issues with the uploaded images then a success message will be displayed. </p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-8.jpg\" alt=\"ui tool\" />"
+  },
+  {
+    "SN": "11",
+    "Guidelines": "<h4>How do I validate batch of HTML files and their collection of the images?</h4>"
+  },
+  {
+    "SN": "12",
+    "Guidelines": "<p><strong>Step 1:</strong> For bulk validation, you can take the leverage of A+ Content Zip Validator functionality. You simply need to select the .Zip file that contains all the HTML files and images.</p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-9.jpg\" alt=\"ui tool\" /><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-10.jpg\" alt=\"ui tool\" />"
+  },
+  {
+    "SN": "13",
+    "Guidelines": "<p><strong>Step 2:</strong> After uploading the .Zip file, you need to click on Validate button to check whether the uploaded files are correct or not. </p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-11.jpg\" alt=\"ui tool\" />"
+  },
+  {
+    "SN": "14",
+    "Guidelines": "<p><strong>Step 3:</strong> On validation, if there are any errors associated with the uploaded files, then it will list down below along with the file names.</p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-12.jpg\" alt=\"ui tool\" />"
+  },
+  {
+    "SN": "15",
+    "Guidelines": "<p><strong>Step 4:</strong> On validation, if everything is adhered to the suggested validation guidelines then a success message will be displayed. But, please note in case of zip file you will not get the option to download the minified version of HTML file.</p><img src=\"https://images-static.naikaa.com/media/wysiwyg/2021/uitool/uitool-13.jpg\" alt=\"ui tool\" />"
+  }
+]
